@@ -1,4 +1,4 @@
-# raspberry-pi-sense-hat-change-color
+# Raspberry Pi - Sense Hat: Change Color
 A prototyping/experimental project to control Sense Hat LED via CLI
 
 You are required to have the following
